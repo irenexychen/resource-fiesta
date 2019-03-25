@@ -29,3 +29,8 @@
 
 ## Candidate - to - Job Matching
 [Pymetrics](https://www.pymetrics.com/employers/): Logic-based games
+
+
+
+# Consulting
+[Thread about getting started](https://news.ycombinator.com/item?id=19455224)
