@@ -39,7 +39,9 @@
 ## Candidate - to - Job Matching
 [Pymetrics](https://www.pymetrics.com/employers/): Logic-based games
 
+# Negotiations and Offers
 
+[List of Salaries](https://docs.google.com/spreadsheets/d/1Km9bsx0SWPDiOPMYvremSDujyS5sF0ZQvbxr5S52wSA/edit#gid=1649958221): form to contribute is [here](https://goo.gl/forms/iJAdQfrswCN5nrWI3)
 
 
 # Consulting
