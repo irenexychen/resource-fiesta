@@ -14,15 +14,11 @@
 
 ## Practice Questions
 ### Free Resources
-
+[Daily Coding Problem](https://www.dailycodingproblem.com): 365 problems, solutions are paid
+[Google Tech Dev Guide](https://techdevguide.withgoogle.com/): ~50 problems with hints and solutions
 
 ### Paid Resources
 [Interview Cake](https://www.interviewcake.com/): from HackerNews thread, curated questions with step-by-step hints, $~250
-
-
-
-## Side Project Ideas
-
 
 
 
