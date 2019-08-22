@@ -6,23 +6,30 @@
 
 # Preparation
 
+
 ### Resume Building
 [creddle.io](http://creddle.io/)
+
 
 
 ## Practice Questions
 ### Free Resources
 
+
 ### Paid Resources
 [Interview Cake](https://www.interviewcake.com/): from HackerNews thread, curated questions with step-by-step hints, $~250
+
 
 
 ## Side Project Ideas
 
 
+
+
 # Job Applications
 
 ## Job Boards
+[TalentVine](https://www.talentvine.io/?ref=dailycodingproblem): Easy full-time applications, no internship positions currently
 
 ## Company Boards
 [Interviewing.IO](https://interviewing.io/): Real, anonymous phone interviews that can lead to onsite interviews.
@@ -31,6 +38,7 @@
 
 ## Candidate - to - Job Matching
 [Pymetrics](https://www.pymetrics.com/employers/): Logic-based games
+
 
 
 
