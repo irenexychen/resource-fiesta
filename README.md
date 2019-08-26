@@ -24,6 +24,7 @@
 
 ## Job Boards
 - [TalentVine](https://www.talentvine.io/?ref=dailycodingproblem): Easy full-time applications, no internship positions currently
+- [Hire Tech Ladies](https://www.hiretechladies.com/jobs): Tech Ladies' Job Board, restricted to Tech Ladies' members
 
 ## Company Boards
 - [Interviewing.IO](https://interviewing.io/): Real, anonymous phone interviews that can lead to onsite interviews.
