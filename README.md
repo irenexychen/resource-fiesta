@@ -46,6 +46,7 @@
 
 ## Candidate-to-Job Matching
 - [Pymetrics](https://www.pymetrics.com/employers/): Logic-based games
+- [Vettery](https://www.vettery.com/register#/candidate): ML-based automated recruiting process
 
 # Negotiations and Offers
 - [Levels.fyi](https://www.levels.fyi/): compensation by position
