@@ -84,5 +84,5 @@ Ironic that this section is empty.
 # Advice from those who walked the path
 - Think about what you value in a job (i.e. autonomy, team atmosphere, flexibility in work/projects...)
 - In the long term, intrinsic rewards (i.e. purpose) prevail over extrinsic rewards (i.e. compensation, title, prestige), refer to the book _Drive_ by Daniel Pink
-- Live your life with whatever hand you're dealt with (i.e. ideas of individualization by Carl Jung, MTG colour pie). Accept yourself and learn to manage the traits that make up _who_ you are, as opposed to trying to change yourself. A lot of _why_ life is hard, is because we try to live it alone.
+- Live your life with whatever hand you're dealt with (i.e. ideas of individuation by Carl Jung, MTG colour pie & reacting accordingly based on _who_ one is). Accept yourself and learn to manage the traits that make up _who_ you are, as opposed to trying to change yourself. A lot of _why_ life is hard, is because we try to live it alone.
 
