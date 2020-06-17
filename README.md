@@ -1,5 +1,5 @@
 # resource-fiesta
-:octocat: Links and resources accumulated over the years about internship and full time job opportunities. PRs welcome!
+:octocat: Links and resources accumulated over the years about internship and full time job opportunities. PRs welcome :)
 
 ***
 
@@ -7,11 +7,18 @@
 
 ## [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) !!!
 
+General questions to ask recruiters/leads at info sessions: 
+- what's your team on `<x>` like?
+
+Additional questions to ask: 
+- what does the team's workflow and release schedule look like?
+- what are some common interests of the people on the team?
+
 ## Open Source Projects
-- [Breakout List Challenges](https://breakoutlist.com/breakout-challenges/): List of unique problems that may require your technical skills
+- [Breakout List Challenges](https://breakoutlist.com/breakout-challenges/): list of unique problems that may require your technical skills
 
 ## Resume Building Tools
-- [creddle.io](http://creddle.io/)
+- [creddle.io](http://creddle.io/): beware pdf-parsing issues with ATS
 
 ## Practice Questions
 - [Curated List of Top 75 LeetCode Questions](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
@@ -31,22 +38,24 @@
 # Job Applications
 
 ## Job Boards
-- [TalentVine](https://www.talentvine.io/?ref=dailycodingproblem): Easy full-time applications, no internship positions currently
-- [Hire Tech Ladies](https://www.hiretechladies.com/jobs): Tech Ladies' Job Board, restricted to Tech Ladies' members
-- [Apply FYI](https://apply.fyi/): Links and salary info of internship positions
+- [TalentVine](https://www.talentvine.io/?ref=dailycodingproblem): easy full-time applications, no internship positions currently
+- [Hire Tech Ladies](https://www.hiretechladies.com/jobs): a Tech Ladies' Job Board, restricted to Tech Ladies' members
+- [Apply FYI](https://apply.fyi/): links and salary info of internship positions
 - [Remote Student Opportunities](https://airtable.com/shrvf3G6xIPjn6SUK/tblT2rDs6G9cu1kXP?backgroundColor=cyan&viewControls=on): airtable link from [remotestudents.co](remotestudents.co) 
 
 ## Company Boards
-- [Interviewing.IO](https://interviewing.io/): Real, anonymous phone interviews that can lead to onsite interviews.
-- [Breakout List](https://breakoutlist.com/): List of mid/expanding companies with high growth
+- [Interviewing.IO](https://interviewing.io/): real, anonymous phone interviews that can lead to onsite interviews.
+- [Breakout List](https://breakoutlist.com/): list of mid/expanding companies with high growth
 
 ## Newsletters
 - [Startup Search Newsletter](https://contrarycap.com/) by ContraryCap Ventures
 - [Remote Student Opportunities](remotestudents.co)
 
 ## Candidate-to-Job Matching
-- [Pymetrics](https://www.pymetrics.com/employers/): Logic-based games
-- [Vettery](https://www.vettery.com/register#/candidate): ML-based automated recruiting process
+- [Pymetrics](https://www.pymetrics.com/employers/): logic-based games
+- [Vettery](https://www.vettery.com/register#/candidate): a ML-based automated recruiting process
+
+***
 
 # Negotiations and Offers
 - [Levels.fyi](https://www.levels.fyi/): compensation by position
@@ -62,13 +71,18 @@
 
 # Consulting
 - [Thread about getting started](https://news.ycombinator.com/item?id=19455224)
+- [AMA](mailto:indep.contr@irenexychen.com?subject=Independent%20Contractor%20GitHub) about working as a remote independent consultant in Canada for US companies
 
 ***
 
 # Self Care and Work Life Balance
 
+Ironic that this section is empty. 
+
 ***
 
 # Advice from those who walked the path
-- Think about what you value in a job (i.e. autonomy, team atmosphere, flexibility in work/projects...) 
+- Think about what you value in a job (i.e. autonomy, team atmosphere, flexibility in work/projects...)
+- In the long term, intrinsic rewards (i.e. purpose) prevail over extrinsic rewards (i.e. compensation, title, prestige), refer to the book _Drive_ by Daniel Pink
+- Live your life with whatever hand you're dealt with (i.e. ideas of individualization by Carl Jung, MTG colour pie). Accept yourself and learn to manage the traits that make up _who_ you are, as opposed to trying to change yourself. A lot of _why_ life is hard, is because we try to live it alone.
 
