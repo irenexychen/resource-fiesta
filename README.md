@@ -43,6 +43,11 @@ Additional questions to ask:
 - [Apply FYI](https://apply.fyi/): links and salary info of internship positions
 - [Remote Student Opportunities](https://airtable.com/shrvf3G6xIPjn6SUK/tblT2rDs6G9cu1kXP?backgroundColor=cyan&viewControls=on): airtable link from [remotestudents.co](remotestudents.co) 
 
+## Candidate-to-Job Matching
+- [Pymetrics](https://www.pymetrics.com/employers/): logic-based games
+- [Vettery](https://www.vettery.com/register#/candidate): a ML-based automated recruiting process
+- [RippleMatch](https://ripplematch.com/): automated job application/matching platform
+
 ## Company Boards
 - [Interviewing.IO](https://interviewing.io/): real, anonymous phone interviews that can lead to onsite interviews.
 - [Breakout List](https://breakoutlist.com/): list of mid/expanding companies with high growth
@@ -50,10 +55,6 @@ Additional questions to ask:
 ## Newsletters
 - [Startup Search Newsletter](https://contrarycap.com/) by ContraryCap Ventures
 - [Remote Student Opportunities](remotestudents.co)
-
-## Candidate-to-Job Matching
-- [Pymetrics](https://www.pymetrics.com/employers/): logic-based games
-- [Vettery](https://www.vettery.com/register#/candidate): a ML-based automated recruiting process
 
 ***
 
