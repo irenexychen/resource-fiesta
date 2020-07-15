@@ -1,5 +1,10 @@
-# resource-fiesta
-:octocat: Links and resources accumulated over the years about internship and full time job opportunities. PRs welcome :)
+# RESOURCE-FIESTA  :tada:
+
+- :octocat: Aggregation of career-related resources accumulated over the years 
+- No affiliate links unless explicitly specified. 
+- PRs welcome :)
+- Feel free to contact me at [hello@irenexychen.com](mailto:hello@irenexychen.com?subject=Resource%Fiesta%20GitHub) ! My policy has always been unrestrained thoughts and advice if I'm in a position to help. 
+
 
 ***
 
@@ -56,6 +61,7 @@ Additional questions to ask:
 - [Startup Search Newsletter](https://contrarycap.com/) by ContraryCap Ventures
 - [Remote Student Opportunities](remotestudents.co)
 
+
 ***
 
 # Negotiations and Offers
@@ -68,22 +74,25 @@ Additional questions to ask:
 # Market Status (COVID-19)
 - [Candor List Hiring Status](https://candor.co/hiring-freezes/): direct airtable [link](https://airtable.com/shrpj2r4Kjc4YoMu4/tbl8m95GiuWehnIiT)
 
+
 ***
 
 # Consulting
 - [Thread about getting started](https://news.ycombinator.com/item?id=19455224)
 - [AMA](mailto:indep.contr@irenexychen.com?subject=Independent%20Contractor%20GitHub) about working as a remote independent consultant in Canada for US companies
 
+
 ***
 
 # Self Care and Work Life Balance
 
-Ironic that this section is empty. 
+~~Ironic that this section is empty.~~
+
 
 ***
 
 # Advice from those who walked the path
+
 - Think about what you value in a job (i.e. autonomy, team atmosphere, flexibility in work/projects...)
 - In the long term, intrinsic rewards (i.e. purpose) prevail over extrinsic rewards (i.e. compensation, title, prestige), refer to the book _Drive_ by Daniel Pink
 - Live your life with whatever hand you're dealt with (i.e. ideas of individuation by Carl Jung, MTG colour pie & reacting accordingly based on _who_ one is). Accept yourself and learn to manage the traits that make up _who_ you are, as opposed to trying to change yourself. A lot of _why_ life is hard, is because we try to live it alone.
-
