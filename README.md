@@ -92,7 +92,7 @@ Additional questions to ask:
 
 
 ### Women+
-- [Rewriting the Code](https://rewritingthecode.org/): community of women in tech with a fellowship program, mostly active on Facebook
+- [Rewriting the Code](https://rewritingthecode.org/): community of women in tech with a fellowship program, mostly active on Facebook. Membership [sign-up](https://airtable.com/shrNUyBv2hzAMKcvV).
 
 
 
