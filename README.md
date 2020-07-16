@@ -45,7 +45,7 @@ Additional questions to ask:
 ## Job Boards
 - [TalentVine](https://www.talentvine.io/?ref=dailycodingproblem): easy full-time applications, no internship positions currently
 - [Hire Tech Ladies](https://www.hiretechladies.com/jobs): a Tech Ladies' Job Board, restricted to Tech Ladies' members
-- [Apply FYI](https://apply.fyi/): links and salary info of internship positions
+- [Apply.fyi](https://apply.fyi/): application links and salary info of internship positions
 - [Remote Student Opportunities](https://airtable.com/shrvf3G6xIPjn6SUK/tblT2rDs6G9cu1kXP?backgroundColor=cyan&viewControls=on): airtable link from [remotestudents.co](remotestudents.co) 
 
 ## Candidate-to-Job Matching
@@ -65,8 +65,9 @@ Additional questions to ask:
 ***
 
 # Negotiations and Offers
-- [Levels.fyi](https://www.levels.fyi/): compensation by position
-- [List of Salaries](https://docs.google.com/spreadsheets/d/1Km9bsx0SWPDiOPMYvremSDujyS5sF0ZQvbxr5S52wSA/edit#gid=1649958221): form to contribute is [here](https://goo.gl/forms/iJAdQfrswCN5nrWI3)
+- [Levels.fyi](https://www.levels.fyi/): compensation by company/position (full-time)
+- [Levels.fyi/internships](https://www.levels.fyi/internships/): the internship version ^
+- [List of Salaries](https://docs.google.com/spreadsheets/d/1Km9bsx0SWPDiOPMYvremSDujyS5sF0ZQvbxr5S52wSA/edit#gid=1649958221): form to contribute is [here](https://goo.gl/forms/iJAdQfrswCN5nrWI3). May be outdated? 
 
 
 ***
@@ -80,6 +81,19 @@ Additional questions to ask:
 # Consulting
 - [Thread about getting started](https://news.ycombinator.com/item?id=19455224)
 - [AMA](mailto:indep.contr@irenexychen.com?subject=Independent%20Contractor%20GitHub) about working as a remote independent consultant in Canada for US companies
+
+
+***
+
+# Groups and Connections
+
+### Students
+- [intern.club](https://intern.club/#/): newsletter and slack group of interns
+
+
+### Women+
+- [Rewriting the Code](https://rewritingthecode.org/): community of women in tech with a fellowship program, mostly active on Facebook
+
 
 
 ***
