@@ -48,6 +48,8 @@ Additional questions to ask:
 - [Apply.fyi](https://apply.fyi/): application links and salary info of internship positions
 - [Remote Student Opportunities](https://airtable.com/shrvf3G6xIPjn6SUK/tblT2rDs6G9cu1kXP?backgroundColor=cyan&viewControls=on): airtable link from [remotestudents.co](remotestudents.co) 
 - [The Help List](https://www.thehelplist.ca/jobs): a resource for Canadian Tech Jobs through [Prospect](https://jobs.prospect.fyi/)
+- [Who Is Hiring](https://whoishiring.io/): aggregation of job postings by geological location, on a global scale
+- [We Work Remotely](https://weworkremotely.com/): job board specifically for remote positions
 
 ## Candidate-to-Job Matching
 - [Pymetrics](https://www.pymetrics.com/employers/): logic-based games
