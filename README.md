@@ -47,6 +47,7 @@ Additional questions to ask:
 - [Hire Tech Ladies](https://www.hiretechladies.com/jobs): a Tech Ladies' Job Board, restricted to Tech Ladies' members
 - [Apply.fyi](https://apply.fyi/): application links and salary info of internship positions
 - [Remote Student Opportunities](https://airtable.com/shrvf3G6xIPjn6SUK/tblT2rDs6G9cu1kXP?backgroundColor=cyan&viewControls=on): airtable link from [remotestudents.co](remotestudents.co) 
+- [The Help List](https://www.thehelplist.ca/jobs): a resource for Canadian Tech Jobs through [Prospect](https://jobs.prospect.fyi/)
 
 ## Candidate-to-Job Matching
 - [Pymetrics](https://www.pymetrics.com/employers/): logic-based games
