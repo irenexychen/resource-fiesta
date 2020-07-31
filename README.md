@@ -27,6 +27,9 @@ Additional questions to ask:
 
 ## Practice Questions
 - [Curated List of Top 75 LeetCode Questions](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Kenny Zhuang Gitbooks Algorithms](https://kennyzhuang.gitbooks.io/algorithms-collection/content/)
+
+- [Byte By Byte](https://www.byte-by-byte.com/coding-interview-questions/all/): coding interview questions
 
 ### Free Resources
 - [Daily Coding Problem](https://www.dailycodingproblem.com): 365 problems, solutions are paid
@@ -113,3 +116,5 @@ Additional questions to ask:
 - Think about what you value in a job (i.e. autonomy, team atmosphere, flexibility in work/projects...)
 - In the long term, intrinsic rewards (i.e. purpose) prevail over extrinsic rewards (i.e. compensation, title, prestige), refer to the book _Drive_ by Daniel Pink
 - Live your life with whatever hand you're dealt with (i.e. ideas of individuation by Carl Jung, MTG colour pie & reacting accordingly based on _who_ one is). Accept yourself and learn to manage the traits that make up _who_ you are, as opposed to trying to change yourself. A lot of _why_ life is hard, is because we try to live it alone.
+
+
