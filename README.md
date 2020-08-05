@@ -28,7 +28,6 @@ Additional questions to ask:
 ## Practice Questions
 - [Curated List of Top 75 LeetCode Questions](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [Kenny Zhuang Gitbooks Algorithms](https://kennyzhuang.gitbooks.io/algorithms-collection/content/)
-
 - [Byte By Byte](https://www.byte-by-byte.com/coding-interview-questions/all/): coding interview questions
 
 ### Free Resources
@@ -60,8 +59,9 @@ Additional questions to ask:
 - [RippleMatch](https://ripplematch.com/): automated job application/matching platform
 
 ## Company Boards
-- [Interviewing.IO](https://interviewing.io/): real, anonymous phone interviews that can lead to onsite interviews.
+- [Interviewing.IO](https://interviewing.io/): real, anonymous phone interviews that can lead to onsite interviews
 - [Breakout List](https://breakoutlist.com/): list of mid/expanding companies with high growth
+- [Remote-Friendly List of Companies](https://github.com/remoteintech/remote-jobs): list of semi to fully remote-friendly companies in or around tech
 
 ## Newsletters
 - [Startup Search Newsletter](https://contrarycap.com/) by ContraryCap Ventures
@@ -100,6 +100,9 @@ Additional questions to ask:
 ### Women+
 - [Rewriting the Code](https://rewritingthecode.org/): community of women in tech with a fellowship program, mostly active on Facebook. Membership [sign-up](https://airtable.com/shrNUyBv2hzAMKcvV).
 
+
+### Minorities
+- [Code2040](http://www.code2040.org/): nonprofit activating, connecting, and mobilizing the largest racial equity community in tech to dismantle the structural barriers, has a [fellowship program](http://www.code2040.org/fellows-program) for additional resources and mentorship
 
 
 ***
