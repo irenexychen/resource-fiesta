@@ -35,6 +35,7 @@ Additional questions to ask:
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/): ~50 problems with hints and solutions
 - [CareerCup](https://www.careercup.com/): recent interview questions
 - [CodeSignal](https://app.codesignal.com/): technical questions, weekly challenge questions, and real company coding challenges
+- [System Design Resources](https://github.com/madd86/awesome-system-design): curated list of system design resources useful for system design interview questions
 
 ### Paid Resources
 - [Interview Cake](https://www.interviewcake.com/): from HackerNews thread, curated questions with step-by-step hints, $~250
